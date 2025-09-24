@@ -11,3 +11,4 @@
 
 ![Correlation Plot](plot.png)
 
+The plot shows the relationship between beer consumption and the number of WO students (university enrollments). It suggests a positive correlation: as the number of WO students increases, beer consumption also tends to increase. However, the relationship is not perfectly linear. Specifically, around 2010 and 2012 beer consumption decreased despite an increase in WO enrollments. In the later years, particularly from 2016 to 2018, both beer consumption and WO student numbers grow together.
